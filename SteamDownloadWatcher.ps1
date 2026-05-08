@@ -1,4 +1,4 @@
-﻿$steamLibrary    = 'D:\Games\SteamLibrary'
+﻿$steamLibrary    = 'point this to SteamLibrary folder'
 $downloadingPath = "$steamLibrary\steamapps\downloading"
 
 # How many seconds to wait after folder empties before triggering shutdown
